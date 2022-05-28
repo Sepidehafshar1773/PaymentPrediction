@@ -3,3 +3,5 @@ A classification task on imbalanced dataset to predict whether a customer will p
 
 
 imblearn library used to handle imbalance labels.
+
+Random Forest classifier for a binary classification.
