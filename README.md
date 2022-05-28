@@ -1,5 +1,5 @@
 # PaymentPrediction
-A classification task on imbalanced dataset to predict whether a customer will pay or not.
+A classification task on imbalanced dataset to predict whether a customer will pay for its bill or not.
 
 
 imblearn library used to handle imbalance labels.
